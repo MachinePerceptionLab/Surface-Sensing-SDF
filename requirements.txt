@@ -1,0 +1,9 @@
+trimesh
+pyhocon==0.3.59
+tqdm
+scikit-image
+matplotlib
+opencv-python
+tensorboard
+scipy
+numpy
