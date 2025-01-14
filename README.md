@@ -1,5 +1,5 @@
 # Surface-Sensing-SDF
-## [Project page](https://machineperceptionlab.github.io/SS-SDF-page/)| [Paper](https://arxiv.org/pdf/2412.16467)
+## [Paper](https://arxiv.org/pdf/2412.16467)
 This is the official repo for the implementation of **Sensing Surface Patches in Volume Rendering for Inferring Signed Distance Functions**.accepted at AAAI 2025.
 
 # Setup
