@@ -7,7 +7,7 @@ This is the official repo for the implementation of **Sensing Surface Patches in
 ## Installation
 Clone the repository and create an anaconda environment called Surface-Sensing-SDF using
 ```
-git clone git@github.com:autonomousvision/monosdf.git
+git clone git@github.com:MachinePerceptionLab/Surface-Sensing-SDF.git
 cd Surface-Sensing-SDF
 
 conda create -y -n Surface-Sensing-SDF python=3.8
